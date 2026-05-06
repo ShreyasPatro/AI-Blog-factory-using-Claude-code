@@ -1,0 +1,283 @@
+{
+  "topic": "HSR Layout",
+  "keyword_groups": [
+    {
+      "group_name": "HSR Layout Ultimate Guide (Hub)",
+      "primary_keyword": "HSR Layout Bangalore",
+      "supporting_keywords": [
+        "is HSR Layout good for living",
+        "what is HSR Layout",
+        "HSR Layout pin code",
+        "why is HSR Layout popular",
+        "what does HSR stand for",
+        "HSR Layout location",
+        "HSR Layout infrastructure"
+      ],
+      "intent": "informational",
+      "opportunity_score": 88,
+      "suggested_article_type": "hub",
+      "target_word_count": 3500,
+      "content_angle": "Comprehensive cornerstone guide covering history, sector overview, property market, connectivity, amenities, and lifestyle. Competitors have thin 300-700 word pages; Canvas Homes establishes authority with deep, current content.",
+      "aeo_opportunities": [
+        "Is HSR Layout good for living (score: 75)",
+        "Why is HSR Layout popular (score: 85)",
+        "What does HSR stand for in HSR Layout"
+      ],
+      "competitor_weakness": "All major competitors (MagicBricks, NoBroker, 99acres, Housing) have outdated, thin locality overview pages with generic templates and no local expertise",
+      "internal_linking_targets": [
+        "sector comparison spoke",
+        "rental yield analysis spoke",
+        "family safety spoke",
+        "cons & challenges spoke"
+      ]
+    },
+    {
+      "group_name": "Sector Comparison Deep Dive",
+      "primary_keyword": "which sector is best in HSR Layout",
+      "supporting_keywords": [
+        "HSR Layout Sector 1 vs Sector 2",
+        "HSR Layout sector 1",
+        "HSR Layout sector 2",
+        "HSR Layout sector 3",
+        "best sector in HSR Layout",
+        "HSR Layout sector wise property rates",
+        "HSR Layout sector map"
+      ],
+      "intent": "informational",
+      "opportunity_score": 95,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2500,
+      "content_angle": "Sector-by-sector comparison with decision matrix by user persona (families, bachelors, investors, retirees). Cover property prices, rental rates, amenities, connectivity, parking, water supply, and recommendations for each sector.",
+      "aeo_opportunities": [
+        "Which sector is best in HSR Layout (score: 85)",
+        "Is HSR Layout Sector 1 or 2 better (high question intent)"
+      ],
+      "competitor_weakness": "Zero competitor presence. Current top results are Quora and Reddit threads with no authoritative answer. Massive white-space opportunity for featured snippet.",
+      "internal_linking_targets": [
+        "hub guide",
+        "property prices spoke",
+        "rental rates spoke"
+      ]
+    },
+    {
+      "group_name": "Honest Pros & Cons Analysis",
+      "primary_keyword": "cons of living in HSR Layout",
+      "supporting_keywords": [
+        "HSR Layout problems",
+        "HSR Layout traffic",
+        "HSR Layout water supply issues",
+        "HSR Layout parking issues",
+        "is HSR Layout expensive",
+        "HSR Layout disadvantages",
+        "HSR Layout challenges"
+      ],
+      "intent": "informational",
+      "opportunity_score": 98,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2000,
+      "content_angle": "Trust-building balanced analysis covering traffic congestion, water supply dependency on tankers, parking challenges, high rental costs, narrow roads in older sectors, construction noise. Include mitigation tips for each challenge. Positions Canvas Homes as honest advisor.",
+      "aeo_opportunities": [
+        "What are the cons of living in HSR Layout (score: 95)"
+      ],
+      "competitor_weakness": "No competitor dares to discuss cons honestly. All have generic positive-only content. This differentiates Canvas Homes and builds user trust.",
+      "internal_linking_targets": [
+        "hub guide",
+        "family safety spoke",
+        "water supply deep-dive"
+      ]
+    },
+    {
+      "group_name": "Family Safety & Livability Guide",
+      "primary_keyword": "is HSR Layout safe for families",
+      "supporting_keywords": [
+        "HSR Layout for families",
+        "HSR Layout safety",
+        "HSR Layout schools",
+        "HSR Layout hospitals",
+        "HSR Layout parks",
+        "HSR Layout gated communities",
+        "best schools in HSR Layout",
+        "hospitals near HSR Layout"
+      ],
+      "intent": "informational",
+      "opportunity_score": 92,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2200,
+      "content_angle": "Comprehensive family-focused guide covering safety metrics, crime rates, street lighting, women's safety, kid-friendly amenities, school proximity with ratings, hospital emergency services, parks, gated community options, neighborhood culture by sector.",
+      "aeo_opportunities": [
+        "Is HSR Layout safe for families (score: 90)",
+        "What are the best schools in HSR Layout",
+        "Are there good hospitals near HSR Layout"
+      ],
+      "competitor_weakness": "Zero competitor coverage of family safety query. Generic amenities lists without depth or safety context. No school/hospital quality analysis.",
+      "internal_linking_targets": [
+        "hub guide",
+        "sector comparison",
+        "amenities guide"
+      ]
+    },
+    {
+      "group_name": "Rental Market & Pricing Analysis",
+      "primary_keyword": "average rent in HSR Layout",
+      "supporting_keywords": [
+        "HSR Layout 2BHK rent",
+        "HSR Layout 3BHK rent",
+        "HSR Layout 1BHK rent",
+        "rent in HSR Layout sector 2",
+        "HSR Layout rental prices 2026",
+        "HSR Layout rent for bachelors",
+        "HSR Layout PG rent"
+      ],
+      "intent": "informational",
+      "opportunity_score": 85,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2400,
+      "content_angle": "Data-driven sector-wise rent breakdown (1BHK/2BHK/3BHK/PG), seasonal trends, negotiation tips for tenants, maintenance charges overview, deposit norms, notice periods, rent vs buy calculator. Competitors show listings but no analytical content.",
+      "aeo_opportunities": [
+        "What is the average rent in HSR Layout (score: 80)",
+        "2BHK rent HSR Layout (score: 45)"
+      ],
+      "competitor_weakness": "NoBroker and Housing show listings only with no rent analysis, negotiation guidance, or sector-wise breakdowns. Pure white space for analytical rental market content.",
+      "internal_linking_targets": [
+        "hub guide",
+        "sector comparison",
+        "investment analysis spoke"
+      ]
+    },
+    {
+      "group_name": "Investment & Rental Yield Analysis",
+      "primary_keyword": "HSR Layout rental yield",
+      "supporting_keywords": [
+        "HSR Layout investment",
+        "HSR Layout property appreciation",
+        "HSR Layout ROI",
+        "HSR Layout resale value",
+        "HSR Layout capital appreciation",
+        "best time to buy property in HSR Layout",
+        "HSR Layout future development"
+      ],
+      "intent": "informational",
+      "opportunity_score": 87,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2300,
+      "content_angle": "Investor-focused data analysis: rental yield by sector and property type (2BHK/3BHK), capital appreciation trends 2020-2026, ROI comparison with Koramangala/Indiranagar, best sectors for investment, metro impact projections, future infrastructure benefits.",
+      "aeo_opportunities": [
+        "HSR Layout rental yield (score: 80)"
+      ],
+      "competitor_weakness": "Zero competitor coverage of investment analytics. No rental yield data, appreciation trends, or ROI analysis. Huge opportunity to position Canvas Homes as data authority for investors.",
+      "internal_linking_targets": [
+        "hub guide",
+        "rental market spoke",
+        "sector comparison"
+      ]
+    },
+    {
+      "group_name": "HSR Layout vs Competing Localities",
+      "primary_keyword": "HSR Layout vs Koramangala",
+      "supporting_keywords": [
+        "HSR Layout vs BTM",
+        "HSR Layout vs Indiranagar",
+        "HSR Layout vs JP Nagar",
+        "HSR Layout vs Marathahalli",
+        "HSR or Koramangala which is better",
+        "HSR Layout comparison"
+      ],
+      "intent": "comparison",
+      "opportunity_score": 78,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2600,
+      "content_angle": "Comprehensive comparison series with decision matrices: property prices, rent levels, connectivity, lifestyle & nightlife, family-friendliness, investment potential, amenities. Help users in decision-making phase choose the right locality based on priorities.",
+      "aeo_opportunities": [
+        "HSR Layout vs Koramangala (score: 70)"
+      ],
+      "competitor_weakness": "MagicBricks has basic listing comparison pages only. No structured comparison tables, decision frameworks, or persona-based recommendations. Weak competition for comparison intent.",
+      "internal_linking_targets": [
+        "hub guide",
+        "investment analysis",
+        "family safety guide"
+      ]
+    },
+    {
+      "group_name": "Property Prices & Market Trends",
+      "primary_keyword": "HSR Layout property rates",
+      "supporting_keywords": [
+        "HSR Layout price per sqft",
+        "HSR Layout property prices 2026",
+        "HSR Layout flats price",
+        "HSR Layout 2BHK price",
+        "HSR Layout 3BHK price",
+        "HSR Layout builder flats price",
+        "HSR Layout resale flats price"
+      ],
+      "intent": "informational",
+      "opportunity_score": 72,
+      "suggested_article_type": "spoke",
+      "target_word_count": 2100,
+      "content_angle": "Current market pricing analysis with sector-wise price per sqft breakdown, 2BHK/3BHK price ranges, builder vs resale pricing, historical price trends 2020-2026, price drivers (metro, infrastructure), price negotiation tips for buyers.",
+      "aeo_opportunities": [
+        "HSR Layout property price (score: 50)",
+        "What is the average price per sqft in HSR Layout",
+        "What is the property rate in HSR Layout"
+      ],
+      "competitor_weakness": "MagicBricks and 99acres show data presentation only with no interpretation for buyers, missing sector-level granularity, no negotiation guidance or trend analysis.",
+      "internal_linking_targets": [
+        "hub guide",
+        "sector comparison",
+        "investment analysis",
+        "rental market spoke"
+      ]
+    }
+  ],
+  "summary": "Strategic keyword mapping for HSR Layout identifies 8 high-opportunity content groups targeting massive white-space gaps in competitor coverage. TOP PRIORITIES: (1) Sector Comparison (opportunity score 95) - zero competitor presence for 'which sector is best' query with AEO score 85. (2) Honest Cons Analysis (98) - trust-building differentiator covering challenges no competitor addresses (AEO 95). (3) Family Safety Guide (92) - untapped question intent with 90 AEO score. (4) Investment/Rental Yield (87) - investor analytics gap. All major competitors (MagicBricks, NoBroker, 99acres, Housing) rely on thin 300-700 word locality pages and listing aggregation with minimal editorial depth. Canvas Homes can capture 6+ featured snippets and establish editorial authority through comprehensive hub (3500 words) + 7 analytical spokes (2000-2600 words each). Keyword groups balance informational intent (hub, sector comparison, cons, safety, rental analysis, investment) with comparison intent (locality vs locality) and transactional support (property prices). Estimated ranking timeline: 2-6 weeks for white-space queries given low competition difficulty. Content freshness advantage: competitors update quarterly/annually; Canvas Homes can dominate with monthly hub updates and real-time metro/infrastructure news integration.",
+  "content_cluster_structure": {
+    "hub": "HSR Layout Ultimate Guide (links to all 7 spokes)",
+    "spokes": [
+      "Sector Comparison Deep Dive",
+      "Honest Pros & Cons Analysis",
+      "Family Safety & Livability Guide",
+      "Rental Market & Pricing Analysis",
+      "Investment & Rental Yield Analysis",
+      "HSR Layout vs Competing Localities",
+      "Property Prices & Market Trends"
+    ],
+    "internal_linking_strategy": "Hub links to all spokes, each spoke links back to hub and 2-3 related spokes for topic clustering and authority building"
+  },
+  "quick_wins": [
+    {
+      "keyword_group": "Sector Comparison Deep Dive",
+      "reason": "AEO score 85, zero competitor presence, question format, estimated 2-4 weeks to rank",
+      "priority": 1
+    },
+    {
+      "keyword_group": "Honest Pros & Cons Analysis",
+      "reason": "AEO score 95, no competitor coverage, trust-building differentiator, 2-3 weeks to rank",
+      "priority": 2
+    },
+    {
+      "keyword_group": "Family Safety & Livability Guide",
+      "reason": "AEO score 90, zero editorial coverage, high emotional decision value, 3-5 weeks to rank",
+      "priority": 3
+    }
+  ],
+  "aeo_featured_snippet_targets": [
+    "Which sector is best in HSR Layout",
+    "What are the cons of living in HSR Layout",
+    "Is HSR Layout safe for families",
+    "What is the average rent in HSR Layout",
+    "HSR Layout rental yield",
+    "Why is HSR Layout popular",
+    "Is HSR Layout good for living"
+  ],
+  "metadata": {
+    "total_keyword_groups": 8,
+    "hub_articles": 1,
+    "spoke_articles": 7,
+    "total_estimated_word_count": 19600,
+    "average_opportunity_score": 88,
+    "high_priority_groups": 3,
+    "aeo_opportunities_identified": 12,
+    "competitor_coverage_gaps_exploited": 9,
+    "estimated_ranking_timeline": "2-8 weeks across all groups",
+    "internal_links_per_article": "3-5 contextual links"
+  }
+}

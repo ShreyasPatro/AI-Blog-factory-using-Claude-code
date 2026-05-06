@@ -1,0 +1,31 @@
+{
+  "model": "claude-sonnet-4-5",
+  "mcpServers": {
+    "canvas-serp": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["mcp/serp_server.py"]
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "WebSearch",
+      "WebFetch",
+      "Agent",
+      "mcp__canvas-serp__serp_search",
+      "mcp__canvas-serp__google_autocomplete"
+    ],
+    "deny": [
+      "Bash(rm:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}

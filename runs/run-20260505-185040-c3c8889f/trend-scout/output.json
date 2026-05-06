@@ -1,0 +1,196 @@
+{
+  "topic": "HSR Layout",
+  "topic_type": "locality",
+  "paa_questions": [
+    "Is HSR Layout good for living?",
+    "What is the pin code of HSR Layout?",
+    "Which sector is best in HSR Layout?",
+    "Is HSR Layout Sector 1 or 2 better?",
+    "How far is HSR Layout from Bangalore airport?",
+    "What is the average rent in HSR Layout?",
+    "Is HSR Layout safe for families?",
+    "What is the property rate in HSR Layout?",
+    "Does HSR Layout have metro connectivity?",
+    "What are the best schools in HSR Layout?",
+    "Is HSR Layout expensive?",
+    "Why is HSR Layout popular?",
+    "What does HSR stand for in HSR Layout?",
+    "How is the nightlife in HSR Layout?",
+    "What are the best restaurants in HSR Layout?",
+    "Is parking available in HSR Layout apartments?",
+    "What is the average price per sqft in HSR Layout?",
+    "Are there good hospitals near HSR Layout?",
+    "How is the water supply in HSR Layout?",
+    "What are the cons of living in HSR Layout?"
+  ],
+  "related_searches": [
+    "hsr layout 2bhk rent",
+    "hsr layout property prices 2026",
+    "hsr layout vs koramangala",
+    "hsr layout sector 1 vs sector 2",
+    "hsr layout pg for men",
+    "hsr layout pg for women",
+    "hsr layout flats for sale",
+    "hsr layout apartments",
+    "hsr layout builder flats",
+    "hsr layout resale flats",
+    "hsr layout new projects",
+    "hsr layout investment",
+    "hsr layout rental yield",
+    "hsr layout traffic",
+    "hsr layout infrastructure",
+    "hsr layout amenities",
+    "hsr layout pin code",
+    "hsr layout location",
+    "hsr layout distance from mg road",
+    "hsr layout to whitefield"
+  ],
+  "autocomplete": [
+    "hsr layout",
+    "hsr layout bangalore",
+    "hsr layout rent",
+    "hsr layout property",
+    "hsr layout 2bhk",
+    "hsr layout 3bhk",
+    "hsr layout price",
+    "hsr layout flats",
+    "hsr layout apartments",
+    "hsr layout pg",
+    "rent in hsr layout",
+    "rent in hsr layout 2bhk",
+    "rent in hsr layout for bachelors",
+    "rent in hsr layout 1bhk",
+    "rent in hsr layout sector 2",
+    "hsr layout 2026",
+    "hsr layout 2026 property rates",
+    "hsr layout 2026 development",
+    "hsr layout metro 2026",
+    "hsr layout infrastructure 2026",
+    "hsr layout vs koramangala",
+    "hsr layout vs btm",
+    "hsr layout vs indiranagar",
+    "hsr layout vs jp nagar",
+    "hsr layout vs marathahalli"
+  ],
+  "aeo_targets": [
+    {
+      "query": "Is HSR Layout good for living",
+      "score": 75,
+      "why": "High question intent, no competitor featured snippet observed, strong AEO opportunity for comprehensive locality guide"
+    },
+    {
+      "query": "HSR Layout property price",
+      "score": 50,
+      "why": "MagicBricks and 99acres dominate, but lacks comprehensive buyer/renter guide with price breakdown by sector"
+    },
+    {
+      "query": "2BHK rent HSR Layout",
+      "score": 45,
+      "why": "NoBroker and Housing.com lead, opportunity exists for sector-wise price comparison and negotiation tips"
+    },
+    {
+      "query": "What is the average rent in HSR Layout",
+      "score": 80,
+      "why": "Question format, no clear featured snippet, competitors show listings but not analytical content"
+    },
+    {
+      "query": "Which sector is best in HSR Layout",
+      "score": 85,
+      "why": "High question intent, no featured snippet, strong comparison opportunity, competitors absent from top results"
+    },
+    {
+      "query": "Is HSR Layout safe for families",
+      "score": 90,
+      "why": "Question format, no AI overview, no competitor presence in top 10, lifestyle content gap"
+    },
+    {
+      "query": "HSR Layout vs Koramangala",
+      "score": 70,
+      "why": "Comparison intent, limited structured comparison content, MagicBricks has basic listing pages only"
+    },
+    {
+      "query": "Why is HSR Layout popular",
+      "score": 85,
+      "why": "Question format, no featured snippet, no real estate platform has comprehensive answer"
+    },
+    {
+      "query": "What are the cons of living in HSR Layout",
+      "score": 95,
+      "why": "High question intent, no competitor coverage, balanced content opportunity that builds trust"
+    },
+    {
+      "query": "HSR Layout metro connectivity",
+      "score": 65,
+      "why": "Infrastructure query, government sites rank but no real estate platform provides context for buyers/renters"
+    },
+    {
+      "query": "HSR Layout rental yield",
+      "score": 80,
+      "why": "Investor intent, no competitor coverage, analytical content gap"
+    },
+    {
+      "query": "How far is HSR Layout from Bangalore airport",
+      "score": 60,
+      "why": "Question format, Google Maps dominates but opportunity for connectivity guide"
+    }
+  ],
+  "competitor_coverage": {
+    "magicbricks.com": 8,
+    "nobroker.in": 7,
+    "99acres.com": 6,
+    "housing.com": 5,
+    "commonfloor.com": 2,
+    "sulekha.com": 2,
+    "quikr.com": 1
+  },
+  "intent_clusters": [
+    {
+      "intent": "informational",
+      "queries": [
+        "Is HSR Layout good for living",
+        "What is HSR Layout",
+        "Why is HSR Layout popular",
+        "What does HSR stand for",
+        "Is HSR Layout safe",
+        "What are the cons of living in HSR Layout",
+        "How is the water supply in HSR Layout",
+        "What is the pin code of HSR Layout"
+      ]
+    },
+    {
+      "intent": "transactional",
+      "queries": [
+        "2BHK rent HSR Layout",
+        "3BHK for sale HSR Layout",
+        "HSR Layout flats",
+        "HSR Layout apartments",
+        "HSR Layout PG accommodation",
+        "HSR Layout builder flats",
+        "HSR Layout resale flats",
+        "HSR Layout new projects"
+      ]
+    },
+    {
+      "intent": "comparison",
+      "queries": [
+        "HSR Layout vs Koramangala",
+        "HSR Layout vs BTM",
+        "HSR Layout vs Indiranagar",
+        "HSR Layout Sector 1 vs Sector 2",
+        "HSR Layout buy or rent",
+        "Which sector is best in HSR Layout"
+      ]
+    },
+    {
+      "intent": "navigational",
+      "queries": [
+        "HSR Layout location",
+        "How far is HSR Layout from airport",
+        "HSR Layout distance from MG Road",
+        "HSR Layout to Whitefield",
+        "HSR Layout metro connectivity"
+      ]
+    }
+  ],
+  "summary": "HSR Layout shows strong informational and comparison search intent with 85+ AEO opportunity scores for questions like 'Which sector is best' and 'What are the cons of living here.' Competitors dominate transactional queries (listings) but have minimal presence in lifestyle, safety, and analytical content, creating clear white-space opportunities for Canvas Homes to establish authority with comprehensive locality guides, sector comparisons, and investment analysis content."
+}
